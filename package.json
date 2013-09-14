@@ -1,7 +1,6 @@
 {
   "name": "http-proxy-client",
-  "description": "Allow node's http and https module and all modules that depends on them such as oauth, ahr able to  connect through a http proxy.
-",
+  "description": "Allow node's http and https module and all modules that depends on them such as oauth, ahr able to  connect through a http proxy.",
   "version": "0.1.0",
   "homepage": "http://www.transppt.com",
   "author": {
@@ -12,5 +11,5 @@
     "hookapi": "0.x"
   },
   "main": "./hookapi.js",  
-  "readmeFilename": "README.MD"
+  "readmeFilename": "README.md"
 }
